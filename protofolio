@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Vinay Gayake's Portfolio</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <h2>Vinay Gayake</h2>
+  <p>Engineering Student</p>
+</header>
+
+<section>
+  <nav>
+    <ul>
+      <li><a href="#introduction">Introduction</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#skills">Skills</a></li>
+      <li><a href="#experience">Experience</a></li>
+      <li><a href="#activities">Activities</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+  
+  <article>
+    <section id="introduction">
+      <h1>Introduction</h1>
+      <p>Hello! My name is Vinay Gayake, an engineering student with a passion for technology and innovation. I am dedicated to developing solutions that improve efficiency and solve real-world problems.</p>
+    </section>
+
+    <section id="education">
+      <h1>Education</h1>
+      <ul>
+        <li>Bachelor of Engineering, XYZ University, 2022</li>
+        <li>High School Diploma, ABC High School, 2018</li>
+      </ul>
+    </section>
+
+    <section id="projects">
+      <h1>Projects</h1>
+      <div class="project">
+        <h3>Project Title 1</h3>
+        <p>Description of the project, technologies used, and the outcome.</p>
+      </div>
+      <div class="project">
+        <h3>Project Title 2</h3>
+        <p>Description of the project, technologies used, and the outcome.</p>
+      </div>
+    </section>
+
+    <section id="skills">
+      <h1>Skills</h1>
+      <ul>
+        <li>Programming languages: Python, Java, C++</li>
+        <li>Tools and Technologies: MATLAB, AutoCAD</li>
+        <li>Others: Circuit Design, CAD Modeling</li>
+      </ul>
+    </section>
+
+    <section id="experience">
+      <h1>Experience</h1>
+      <div class="experience">
+        <h3>Internship at ABC Company</h3>
+        <p>Role: Software Development Intern</p>
+        <p>Duration: June 2021 - August 2021</p>
+        <p>Key responsibilities: Developed web applications, collaborated with the development team, and tested software modules.</p>
+      </div>
+      <div class="experience">
+        <h3>Internship at XYZ Company</h3>
+        <p>Role: Electrical Engineering Intern</p>
+        <p>Duration: June 2020 - August 2020</p>
+        <p>Key responsibilities: Assisted in circuit design, conducted experiments, and documented results.</p>
+      </div>
+    </section>
+
+    <section id="activities">
+      <h1>Extracurricular Activities</h1>
+      <ul>
+        <li>Member of the Robotics Club: Participated in national level robotics competitions and workshops.</li>
+        <li>Volunteer at Local Community Center: Organized and conducted STEM workshops for school children.</li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h1>Contact Information</h1>
+      <p>Email: <a href="mailto:vinay.gayake@example.com">vinay.gayake@example.com</a></p>
+      <p>LinkedIn: <a href="#">LinkedIn Profile</a></p>
+    </section>
+  </article>
+</section>
+
+<footer>
+  <p>&copy; 2024 Vinay Gayake</p>
+</footer>
+
+</body>
+</html>
